@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.14" apprev="18105" start="node1">
+  <panorama id="node1" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="270"/>
+      <min tilt="-90" pan="0" fov="26.82"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="" description="Vista exterior del colegio" source="" author="" datetime="" latitude="" nodeid="node1" comment="" customnodeid="" title="Fachada" copyright="" info="" tags="entrada" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-3.75" pan="-339.08" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719056" altitude="527.00" description="Un amplio estacionamiento que es el espacio en donde recibimos a nuestros alumnos." source="" author="" datetime="26/8/2023 09:40" latitude="19.263806" nodeid="node2" comment="" customnodeid="" title="Estacionamiento" copyright="" info="" tags="entrada" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-4.75" pan="-3.84" distance="8.41029" url="{node15}"/>
+      <hotspot target="" description="" id="Point02" title="" skinid="ht_node" tilt="-2.29" pan="-55.47" distance="50.1615" url="{node12}"/>
+      <hotspot target="" description="" id="Point03" title="" skinid="ht_node" tilt="-1.31" pan="-88.9" distance="86.8472" url="{node5}"/>
+      <hotspot target="$fwd" description="" id="Point04" title="Fachada" skinid="ht_node" tilt="0" pan="89.9999" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-1.09412" pan="-9.76801" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.718972" altitude="526.00" description="Un espacio de usos mltiples para todas las secciones de nuestro Colegio." source="" author="" datetime="26/8/2023 09:38" latitude="19.264583" nodeid="node5" comment="" customnodeid="" title="Cancha externa" copyright="" info="" tags="entrada" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-3.49" pan="-111.52" distance="86.8472" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-11.1" pan="176.445" fov="85.8833"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719111" altitude="522.70" description="Zona de atención a nuestros padres." source="" author="" datetime="26/8/2023 10:05" latitude="19.263861" nodeid="node15" comment="" customnodeid="" title="Recepción" copyright="" info="" tags="recepcion" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-0.97" pan="-157.55" distance="12.6919" url="{node9}"/>
+      <hotspot target="" description="" id="Point02" title="" skinid="ht_node" tilt="-6.5" pan="-39.13" distance="8.41029" url="{node2}"/>
+      <hotspot target="" description="" id="Point03" title="" skinid="ht_node" tilt="-0.67" pan="-237.31" distance="42.1992" url="{node12}"/>
+      <hotspot target="" description="A lo largo de su historia, Campoverde ha recibido premios y reconocimientos a nivel estatal, nacional e internacional, con los que se ha acreditado la calidad y el cuidado de los detalles que imprimimos en nuestro quehacer cotidiano. " id="Point04" title="Premios y Reconocimientos" skinid="ht_info" tilt="8.34" pan="-198.53" url=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-16.9644" pan="-154.38" fov="85.8833"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719194" altitude="549.60" description="Espacio diseñado para briindar información a aspirantes a ingresar." source="" author="" datetime="26/8/2023 09:31" latitude="19.263778" nodeid="node9" comment="" customnodeid="" title="Informes" copyright="" info="" tags="recepcion" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-13.11" pan="-295.86" distance="12.6919" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="3.45633" pan="25.186" fov="85.8833"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719472" altitude="532.30" description="Patio principal de la Sección Primaria, un espacio de convivencia." source="" author="" datetime="26/8/2023 09:54" latitude="19.264028" nodeid="node12" comment="" customnodeid="" title="Patio de Primaria" copyright="" info="" tags="primaria" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="6.34" pan="-159.21" distance="42.1992" url="{node15}"/>
+      <hotspot target="" description="" id="Point02" title="" skinid="ht_node" tilt="1.68" pan="-98.11" distance="23.8124" url="{node11}"/>
+      <hotspot target="" description="" id="Point03" title="" skinid="ht_node" tilt="-0.51" pan="-29.07" distance="8.71242" url="{node7}"/>
+      <hotspot target="" description="" id="Point04" title="" skinid="ht_node" tilt="-3.02" pan="-228.1" distance="24.6853" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-9.21091" pan="81.8947" fov="85.8833"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719389" altitude="534.50" description="La educación primaria es obligatoria y se imparte en seis grados a niños cuya edad oscila entre 6 y 14 años. " source="" author="" datetime="26/8/2023 09:52" latitude="19.264028" nodeid="node7" comment="" customnodeid="" title="Dirección de Primaria" copyright="" info="" tags="primaria" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-8.96" pan="-115.15" distance="8.71242" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-6.46337" pan="10.0774" fov="85.8833"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719472" altitude="525.30" description="Pasillo que comunica el edificio principal con el área de juegos, canchas y auditorio." source="" author="" datetime="26/8/2023 09:55" latitude="19.263806" nodeid="node13" comment="" customnodeid="" title="Pasillo de Primaria" copyright="" info="" tags="primaria" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-3.63" pan="-239.61" url=""/>
+      <hotspot target="" description="" id="Point02" title="" skinid="ht_node" tilt="-3.36" pan="-133.58" distance="15.1988" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719278" altitude="529.80" description="Zona de ingreso a la Sección." source="" author="" datetime="26/8/2023 09:47" latitude="19.264139" nodeid="node11" comment="" customnodeid="" title="Pasillo de Preescolar" copyright="" info="" tags="preescolar" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-4.12" pan="-318.82" distance="23.8124" url="{node12}"/>
+      <hotspot target="" description="" id="Point02" title="" skinid="ht_node" tilt="-5.13" pan="-28.37" distance="22.3577" url="{node6}"/>
+      <hotspot target="" description="" id="Point03" title="" skinid="ht_node" tilt="0.62" pan="-178.73" distance="43.3546" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-6.7015" pan="-71.3109" fov="85.8833"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719306" altitude="530.50" description="Un espacio de juego y convivencia." source="" author="" datetime="26/8/2023 09:42" latitude="19.264528" nodeid="node10" comment="" customnodeid="" title="Patio de Preescolar" copyright="" info="" tags="preescolar" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-2.72" pan="-44.98" distance="29.0763" url="{node3}"/>
+      <hotspot target="" description="" id="Point02" title="" skinid="ht_node" tilt="-5.21" pan="-1.97" distance="10.9806" url="{node16}"/>
+      <hotspot target="" description="" id="Point03" title="" skinid="ht_node" tilt="-1.49" pan="-289.17" distance="43.3546" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-20.2257" pan="78.3407" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719361" altitude="527.40" description="Modelo de aula de la seccin Preescolar." source="" author="" datetime="26/8/2023 09:45" latitude="19.264444" nodeid="node16" comment="" customnodeid="" title="Salón de Preescolar" copyright="" info="" tags="preescolar" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-6.29" pan="-112.09" distance="10.9806" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-1.84992" pan="-136.07" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719583" altitude="531.70" description="diseñados específicamente para las necesidades de nuestros pequeños." source="" author="" datetime="26/8/2023 09:43" latitude="19.264528" nodeid="node3" comment="" customnodeid="" title="Baño Preescolar" copyright="" info="" tags="preescolar" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-14.78" pan="-311.6" distance="29.0763" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-10.5955" pan="172.83" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719472" altitude="529.50" description="Un espacio para el ejercicio del deporte." source="" author="" datetime="26/8/2023 09:48" latitude="19.264222" nodeid="node6" comment="" customnodeid="" title="Cancha de Secundaria" copyright="" info="" tags="secundaria" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-2.16" pan="-34.29" distance="22.3577" url="{node11}"/>
+      <hotspot target="" description="" id="Point02" title="" skinid="ht_node" tilt="-3.36" pan="-142.33" distance="25.1053" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-11.3038" pan="-177.97" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719694" altitude="533.60" description="área de convivencia para nuestros alumnos." source="" author="" datetime="26/8/2023 09:48" latitude="19.264306" nodeid="node14" comment="" customnodeid="" title="Patio de Secundaria" copyright="" info="" tags="secundaria" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-2.67" pan="-272.04" distance="25.1053" url="{node6}"/>
+      <hotspot target="" description="" id="Point02" title="" skinid="ht_node" tilt="-5.16" pan="-13.09" distance="12.4538" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719694" altitude="533.10" description="Cómodas y funcionales instalaciones sanitarias." source="" author="" datetime="26/8/2023 09:49" latitude="19.264194" nodeid="node4" comment="" customnodeid="" title="Baño de Secundaria" copyright="" info="" tags="secundaria" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="-21.71" pan="-336.03" distance="12.4538" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input overlap="1" levelbias="0.400" levelingpitch="0" height="1520" leveltilesize="510" width="1520" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-2.63893" pan="-14.89" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="270" tilt="90" pan="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata longitude="-103.719389" altitude="527.20" description="Área de juegos de la seccin Primaria." source="" author="" datetime="26/8/2023 09:57" latitude="19.263694" nodeid="node8" comment="" customnodeid="" title="Fierrópolis" copyright="" info="" tags="primaria" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" backgroundalpha="1" borderradius="1" border="1" height="20" background="1" enabled="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" wordwrap="1" width="180"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot target="" description="" id="Point01" title="" skinid="ht_node" tilt="2.68" pan="-241.38" distance="15.1988" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0" zoomfov="20" blendcolor="0x000000" zoomoutpause="0" zoomspeed="3" softedge="0" zoomin="0" enabled="1" zoomafterinfov="110" zoomafteroutfov="20" type="cut" zoomout="0"/>
+    <autorotate returntohorizon="0.000" nodefilter="" delay="15.00" nodedelay="0.00" enabled="1" speed="0.030" noderandom="1" startloaded="1" useanimation="0"/>
+    <flyintransition enabled="1" speed="3.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" invertwheel="1" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata longitude="" description="" source="" author="" datetime="" latitude="" nodeid="master" comment="" customnodeid="" title="" copyright="" info="" tags="" heading="0"/>
+  </masternode>
+</tour>
